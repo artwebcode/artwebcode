@@ -1,4 +1,5 @@
 ## Hi there 👋
 
 
-https://www.codewars.com/users/artwebcode/badges/large?theme=light
+[![Codewars](https://www.codewars.com/users/artwebcode/badges/large?theme=light)](https://www.codewars.com/users/artwebcode)
+
